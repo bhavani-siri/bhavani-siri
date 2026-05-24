@@ -53,15 +53,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavani-siri&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-siri&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=bhavani-siri&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavani-siri&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=bhavani-siri&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
-
 ---
 
 <p align="center">⭐ If you find my projects helpful, please star them!</p>
