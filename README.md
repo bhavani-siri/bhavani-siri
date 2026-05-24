@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sirisolla Bhavani</h1>
 <h3 align="center">B.Tech CS (Cyber Security) | Full-Stack Developer | AI/ML Enthusiast</h3>
 
